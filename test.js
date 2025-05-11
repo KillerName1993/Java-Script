@@ -40,6 +40,6 @@ z.style.fontSize = '55px'
 
 
 let v = document.createElement("div");
-v.textContent = "priveeeet"
+v.textContent = "priveeeet, я ваш друг"
 v.classList.add("myClass")
 x.appendChild(v)
